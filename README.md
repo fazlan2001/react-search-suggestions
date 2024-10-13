@@ -14,7 +14,7 @@ This project demonstrates a <strong><span style="color: #FF5733;">real-time</spa
 ## Installation
 Follow these steps to run the project locally:
 
-1. Clone the repository:  git clone https://github.com/yourusername/repo-name.git
+1. Clone the repository:  git clone https://github.com/fazlan2001/react-search-suggestions.git
 2. Navigate into the project directory:  cd repo-name
 3. Install the dependencies: npm install
 4. Start the development server:  npm start
