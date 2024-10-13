@@ -1,6 +1,6 @@
 # React Real-Time Search Bar
 
-This project demonstrates a <span style="color: #FF5733;">real-time</span>.  search bar with dynamic suggestions using React. It allows users to type in a search query and get filtered results in real-time from a list of grocery items. The search bar is styled using CSS for a clean, user-friendly experience.
+This project demonstrates a <strong><span style="color: #FF5733;">real-time</span></strong>  search bar with dynamic suggestions using React. It allows users to type in a search query and get filtered results in real-time from a list of grocery items. The search bar is styled using CSS for a clean, user-friendly experience.
 
 ## Features
 - Real-time search filtering based on user input.
